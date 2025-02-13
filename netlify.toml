@@ -5,4 +5,4 @@
 
 [template.environment]
   NAME = "friend"
-  PIC = "enter web url of the receiver's image"
+  PIC ='sample-pic.jpeg'
